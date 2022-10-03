@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Dbem3pyeD73dWqUmPHy3ZqPO+SsUlDty7lZ+nz02LCM=",
+  "Hash": "BjmQMQhAzGAv4HIsYytNYbv0Wx8Kb+qfFLZaj2SJSMc=",
   "Source": "princeshop",
   "BasePath": "_content/princeshop",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\leoch\\Desktop\\princeshop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\princeshop.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\leoch\\Desktop\\princeshop\\wwwroot\\css\\icono.css",
+      "SourceId": "princeshop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\leoch\\Desktop\\princeshop\\wwwroot\\",
+      "BasePath": "_content/princeshop",
+      "RelativePath": "css/icono.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\icono.css"
     },
     {
       "Identity": "C:\\Users\\leoch\\Desktop\\princeshop\\wwwroot\\css\\site.css",
