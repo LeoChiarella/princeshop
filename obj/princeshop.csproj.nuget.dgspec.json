@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\OneDrive\\Escritorio\\princeshop\\princeshop.csproj": {}
+    "C:\\Users\\Elías Rossi Bazán\\Documents\\princeshop\\princeshop.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\OneDrive\\Escritorio\\princeshop\\princeshop.csproj": {
+    "C:\\Users\\Elías Rossi Bazán\\Documents\\princeshop\\princeshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\OneDrive\\Escritorio\\princeshop\\princeshop.csproj",
+        "projectUniqueName": "C:\\Users\\Elías Rossi Bazán\\Documents\\princeshop\\princeshop.csproj",
         "projectName": "princeshop",
-        "projectPath": "c:\\Users\\user\\OneDrive\\Escritorio\\princeshop\\princeshop.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\OneDrive\\Escritorio\\princeshop\\obj\\",
+        "projectPath": "C:\\Users\\Elías Rossi Bazán\\Documents\\princeshop\\princeshop.csproj",
+        "packagesPath": "C:\\Users\\Elías Rossi Bazán\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elías Rossi Bazán\\Documents\\princeshop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Elías Rossi Bazán\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
